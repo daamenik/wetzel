@@ -7,3 +7,6 @@ Thumbs.db
 
 # Ignore generated test outputs
 test/test-output
+
+# Ignore all outputs
+output
